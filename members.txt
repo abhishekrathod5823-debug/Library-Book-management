@@ -1,0 +1,3 @@
+M001|Rahul Sharma|Computer Science
+M002|Amit Verma|Information Technology
+M003|Pooja Patel|Electronics

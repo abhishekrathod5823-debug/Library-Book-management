@@ -1,0 +1,5 @@
+101|C++ Programming|Bjarne Stroustrup|Computer Science|1
+102|Data Structures and Algorithms|Mark Allen Weiss|Computer Science|1
+103|Database Management Systems|Raghu Ramakrishnan|Database|1
+104|Operating System Concepts|Abraham Silberschatz|Systems|1
+105|Computer Networks|Andrew S. Tanenbaum|Networking|1
